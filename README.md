@@ -36,3 +36,12 @@
 - [在线工具](https://tool.lu/)
 - [数字帝国](https://zh.numberempire.com/)
 - [村美](http://www.qinms.com/)
+
+## 摸鱼
+
+- [海拥-摸鱼小游戏](https://haiyong.site/moyu/)
+
+## 天气数据
+
+- [天行数据](https://www.tianapi.com/)
+- [earth](https://earth.nullschool.net/)
